@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.myrepo" name="My REPO" version="1.0" provider-name="ME">
 	<extension point="xbmc.addon.repository" name="My REPO">
-		<info compressed="false">addons.xml</info>
-		<checksum>addons.xml.md5</checksum>
-		<datadir zip="true">zip</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/KaroG2415/Repos/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/KaroG2415/Repos/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/KaroG2415/Repos/tree/master/zips</datadir>
 		
 	</extension>
 	<extension point="xbmc.addon.metadata">
